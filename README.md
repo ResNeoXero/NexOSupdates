@@ -8,7 +8,7 @@ LUA - LabLUA
 Resurrect Gaming - NeoXero(Owner), TFU DoomDragon
 
 # Contact Us
-NeoXero - NeoXero@resurrectgaming.esy.es - Design and Programmer /n
+NeoXero - NeoXero@resurrectgaming.esy.es - Design and Programmer                                                        
 TFU - tfudoomdragon@resurrectgaming.esy.es - Assistant Design
 
 if you get errors on NexOS Contact NeoXero if you want me to add a design Talk to TFU
